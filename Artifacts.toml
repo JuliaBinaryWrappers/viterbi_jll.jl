@@ -1,0 +1,288 @@
+[[viterbi]]
+arch = "aarch64"
+git-tree-sha1 = "80acbd4be8cdaceb66e9e0aa0905bb167369e068"
+os = "macos"
+
+    [[viterbi.download]]
+    sha256 = "23566fe329c5fa2898ca3a1d261b2355c2e5aaf9f66a892f67dbe691ee772f80"
+    url = "https://github.com/JuliaBinaryWrappers/viterbi_jll.jl/releases/download/viterbi-v0.1.0+0/viterbi.v0.1.0.aarch64-apple-darwin.tar.gz"
+[[viterbi]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "305386b08b2decad8f91522156657bc4220922eb"
+libc = "glibc"
+os = "linux"
+
+    [[viterbi.download]]
+    sha256 = "46edbe95f54534bd8617e700be0504d2949999363d838ba1ced2160857227cca"
+    url = "https://github.com/JuliaBinaryWrappers/viterbi_jll.jl/releases/download/viterbi-v0.1.0+0/viterbi.v0.1.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[viterbi]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4dd55f313a271f1296169a08f0d33a9dd1304ea9"
+libc = "glibc"
+os = "linux"
+
+    [[viterbi.download]]
+    sha256 = "6705fbd8ab1292f1c1d4eccef395e8a85984742f1b2dd8bd74b710c272547afe"
+    url = "https://github.com/JuliaBinaryWrappers/viterbi_jll.jl/releases/download/viterbi-v0.1.0+0/viterbi.v0.1.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[viterbi]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "93f36a61828a00eaf4149f220a5f3d86d3fad697"
+libc = "musl"
+os = "linux"
+
+    [[viterbi.download]]
+    sha256 = "620099773346384b99cf4389ab054286a34952fb3766b545d558de873f3273f3"
+    url = "https://github.com/JuliaBinaryWrappers/viterbi_jll.jl/releases/download/viterbi-v0.1.0+0/viterbi.v0.1.0.aarch64-linux-musl-cxx03.tar.gz"
+[[viterbi]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2401056a9dd53536dfb35601340aa6d742472837"
+libc = "musl"
+os = "linux"
+
+    [[viterbi.download]]
+    sha256 = "53327cd08685410d748f8fc6d288db4acb9b6bc8847dd5743e27281339e82e48"
+    url = "https://github.com/JuliaBinaryWrappers/viterbi_jll.jl/releases/download/viterbi-v0.1.0+0/viterbi.v0.1.0.aarch64-linux-musl-cxx11.tar.gz"
+[[viterbi]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f50d219d30c1b19597d09c589cafafbdd83102a5"
+libc = "glibc"
+os = "linux"
+
+    [[viterbi.download]]
+    sha256 = "24bfea44166436471db35ed2dde1c04f8a4341a4e9f760a3d1faddb6734f4bda"
+    url = "https://github.com/JuliaBinaryWrappers/viterbi_jll.jl/releases/download/viterbi-v0.1.0+0/viterbi.v0.1.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[viterbi]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8241923d9f6144fe62f31f6957ca2791c52b060a"
+libc = "glibc"
+os = "linux"
+
+    [[viterbi.download]]
+    sha256 = "957924be40cbc6b389a217685f9ed03dbf150d8181d66d81f38f3aa3d5c0f42b"
+    url = "https://github.com/JuliaBinaryWrappers/viterbi_jll.jl/releases/download/viterbi-v0.1.0+0/viterbi.v0.1.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[viterbi]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a5edf0e837624ad31a0c8b307e1dc9ef7d63b497"
+libc = "musl"
+os = "linux"
+
+    [[viterbi.download]]
+    sha256 = "c3edbdeb8bd2f5866bfa77e52227b93463eba527bf2ef98a97093bd5f1f4e022"
+    url = "https://github.com/JuliaBinaryWrappers/viterbi_jll.jl/releases/download/viterbi-v0.1.0+0/viterbi.v0.1.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[viterbi]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "978b0fe579f877eb792fc83a928efcf89603b4a1"
+libc = "musl"
+os = "linux"
+
+    [[viterbi.download]]
+    sha256 = "5cdf4112293ecb66a46e00ae81c3452890c2e7ae8e732cdcaf028c6c79332ff3"
+    url = "https://github.com/JuliaBinaryWrappers/viterbi_jll.jl/releases/download/viterbi-v0.1.0+0/viterbi.v0.1.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[viterbi]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "df34121a0fb03d2bd6c5c0121a42f9f1a49cd94c"
+libc = "glibc"
+os = "linux"
+
+    [[viterbi.download]]
+    sha256 = "5d838f6354eceab04eec587ad4d4ad1c65781357e6e1e17e198cbe9406ca5b59"
+    url = "https://github.com/JuliaBinaryWrappers/viterbi_jll.jl/releases/download/viterbi-v0.1.0+0/viterbi.v0.1.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[viterbi]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "74e2a769b3270e98df6ed56e3a699896ecd998e7"
+libc = "glibc"
+os = "linux"
+
+    [[viterbi.download]]
+    sha256 = "430db85e7575976c5dfabbf651829bf753b87371a527042cc80caeea044b8573"
+    url = "https://github.com/JuliaBinaryWrappers/viterbi_jll.jl/releases/download/viterbi-v0.1.0+0/viterbi.v0.1.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[viterbi]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "842dc5dc371ceba4e1bc83b77afd61645105bef1"
+libc = "musl"
+os = "linux"
+
+    [[viterbi.download]]
+    sha256 = "a2916db576697cc838c83a87ccb034ca54b3d87b60b03227d36c8a4a0d80f499"
+    url = "https://github.com/JuliaBinaryWrappers/viterbi_jll.jl/releases/download/viterbi-v0.1.0+0/viterbi.v0.1.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[viterbi]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3e0065105b18127f166c0a885ca91e7f8d42074d"
+libc = "musl"
+os = "linux"
+
+    [[viterbi.download]]
+    sha256 = "b9822e9fc54a51f26d43826b22321f1225c8d3133b1a0cb6adf31b269109eeac"
+    url = "https://github.com/JuliaBinaryWrappers/viterbi_jll.jl/releases/download/viterbi-v0.1.0+0/viterbi.v0.1.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[viterbi]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6cff71e397c4e52f53096525193778219798a251"
+libc = "glibc"
+os = "linux"
+
+    [[viterbi.download]]
+    sha256 = "37986dbbc606c4bbd141c7e99819a0f84a9acafe6b28424185fedba83ba72ed5"
+    url = "https://github.com/JuliaBinaryWrappers/viterbi_jll.jl/releases/download/viterbi-v0.1.0+0/viterbi.v0.1.0.i686-linux-gnu-cxx03.tar.gz"
+[[viterbi]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "da78b305e931a8ece201d562c02a9e8c07ec300a"
+libc = "glibc"
+os = "linux"
+
+    [[viterbi.download]]
+    sha256 = "a684dbae0c4cd4e6cb7e493f2406aa1f52cc217c72a2fb44f2f9b09ec055af60"
+    url = "https://github.com/JuliaBinaryWrappers/viterbi_jll.jl/releases/download/viterbi-v0.1.0+0/viterbi.v0.1.0.i686-linux-gnu-cxx11.tar.gz"
+[[viterbi]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "77684e79fb913cdf05fa9760bc56174742a591f5"
+libc = "musl"
+os = "linux"
+
+    [[viterbi.download]]
+    sha256 = "cce4f080a36dd700f9f7f7557e13e245ee3be7b65900f7e090452c1bc08d2141"
+    url = "https://github.com/JuliaBinaryWrappers/viterbi_jll.jl/releases/download/viterbi-v0.1.0+0/viterbi.v0.1.0.i686-linux-musl-cxx03.tar.gz"
+[[viterbi]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1314edfd1535cc7f50e9b07d90426ea76bfd52cc"
+libc = "musl"
+os = "linux"
+
+    [[viterbi.download]]
+    sha256 = "133a17885632193d478b0d2df75765af502670a323991bc731f801d332cc4a7e"
+    url = "https://github.com/JuliaBinaryWrappers/viterbi_jll.jl/releases/download/viterbi-v0.1.0+0/viterbi.v0.1.0.i686-linux-musl-cxx11.tar.gz"
+[[viterbi]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1aba3946babbe57191843046c63ec5153a77f48b"
+os = "windows"
+
+    [[viterbi.download]]
+    sha256 = "45b3988615b2505afb9873fd199a4fe82c6447226d4336cdab52cc4a4a15df06"
+    url = "https://github.com/JuliaBinaryWrappers/viterbi_jll.jl/releases/download/viterbi-v0.1.0+0/viterbi.v0.1.0.i686-w64-mingw32-cxx03.tar.gz"
+[[viterbi]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e56617881158e3566cbc4f9e2c62e7f667a792cd"
+os = "windows"
+
+    [[viterbi.download]]
+    sha256 = "89a3e465c6e73201ea08fc314a85d0a62249d6a28a0f37607ae0869804a8803e"
+    url = "https://github.com/JuliaBinaryWrappers/viterbi_jll.jl/releases/download/viterbi-v0.1.0+0/viterbi.v0.1.0.i686-w64-mingw32-cxx11.tar.gz"
+[[viterbi]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ff8e33881548a6f767ee4af5079dc29e4644e291"
+libc = "glibc"
+os = "linux"
+
+    [[viterbi.download]]
+    sha256 = "87d4c597c729e6db105c99fb2c92a7d402d97a584217e4675b9c949508f09b16"
+    url = "https://github.com/JuliaBinaryWrappers/viterbi_jll.jl/releases/download/viterbi-v0.1.0+0/viterbi.v0.1.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[viterbi]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "587f1820ac64126ad59c316a057ed7b8750f2af4"
+libc = "glibc"
+os = "linux"
+
+    [[viterbi.download]]
+    sha256 = "ffdfbc92d4e557496cb388e14249aa0370f3772f41564200140c56d7614809b1"
+    url = "https://github.com/JuliaBinaryWrappers/viterbi_jll.jl/releases/download/viterbi-v0.1.0+0/viterbi.v0.1.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[viterbi]]
+arch = "x86_64"
+git-tree-sha1 = "3e7a8b06cc99b02e475cf1f2283ecf68077136a0"
+os = "macos"
+
+    [[viterbi.download]]
+    sha256 = "dfdfa3f42e75816ea1ccc6a77d89e2b688c0cda11ea7ac35c5d26e8987edf1bb"
+    url = "https://github.com/JuliaBinaryWrappers/viterbi_jll.jl/releases/download/viterbi-v0.1.0+0/viterbi.v0.1.0.x86_64-apple-darwin.tar.gz"
+[[viterbi]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "21ff5ca138169a3ec7709a55d1527b9ef2809437"
+libc = "glibc"
+os = "linux"
+
+    [[viterbi.download]]
+    sha256 = "62d9ff2c392ff0b8432e67c3b34a14992473087a7a48ffa577f97d4cb30c34ba"
+    url = "https://github.com/JuliaBinaryWrappers/viterbi_jll.jl/releases/download/viterbi-v0.1.0+0/viterbi.v0.1.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[viterbi]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "da0c4d38f960a6eb4db455e47e2631d8bca9824f"
+libc = "glibc"
+os = "linux"
+
+    [[viterbi.download]]
+    sha256 = "a8aa3c7cdab534f458a6d2edc023252905fbeae451d32842865ed7efc6a0234d"
+    url = "https://github.com/JuliaBinaryWrappers/viterbi_jll.jl/releases/download/viterbi-v0.1.0+0/viterbi.v0.1.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[viterbi]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "06866364b76f86b3a5a22d1eff3c5e7b5deb8ee9"
+libc = "musl"
+os = "linux"
+
+    [[viterbi.download]]
+    sha256 = "7936240b9c80553909b9c2752b94e0da4d815b29504181e4d9b146b9743c1111"
+    url = "https://github.com/JuliaBinaryWrappers/viterbi_jll.jl/releases/download/viterbi-v0.1.0+0/viterbi.v0.1.0.x86_64-linux-musl-cxx03.tar.gz"
+[[viterbi]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9d3200a4fd557a556e1ca6fe0791cb6b23728b63"
+libc = "musl"
+os = "linux"
+
+    [[viterbi.download]]
+    sha256 = "b6fe1d81f8c9d1ddaa4f92a98e02745517355bd40c4ce30eed9b893698bd0cc7"
+    url = "https://github.com/JuliaBinaryWrappers/viterbi_jll.jl/releases/download/viterbi-v0.1.0+0/viterbi.v0.1.0.x86_64-linux-musl-cxx11.tar.gz"
+[[viterbi]]
+arch = "x86_64"
+git-tree-sha1 = "bee623678077384a0d2e5523cd4b664d7d605e99"
+os = "freebsd"
+
+    [[viterbi.download]]
+    sha256 = "4bf4c10327ef48b8aa3676d10b8427051456b814c51680a2f673bb2630d4226f"
+    url = "https://github.com/JuliaBinaryWrappers/viterbi_jll.jl/releases/download/viterbi-v0.1.0+0/viterbi.v0.1.0.x86_64-unknown-freebsd.tar.gz"
+[[viterbi]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ec9d7217748c1e3d2b75ca587084aad25e9fe988"
+os = "windows"
+
+    [[viterbi.download]]
+    sha256 = "f7927215353d8ec8b46e128df5888adfb8bac1c2a7a81d7b04b0dfe33f0a01e7"
+    url = "https://github.com/JuliaBinaryWrappers/viterbi_jll.jl/releases/download/viterbi-v0.1.0+0/viterbi.v0.1.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[viterbi]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2a340e42142359b55b0ca1b6ea18d71443dead90"
+os = "windows"
+
+    [[viterbi.download]]
+    sha256 = "d9a389d8064b65df0bb920ed1cb027f901d37ab840c7963725b67f261cb43b0f"
+    url = "https://github.com/JuliaBinaryWrappers/viterbi_jll.jl/releases/download/viterbi-v0.1.0+0/viterbi.v0.1.0.x86_64-w64-mingw32-cxx11.tar.gz"
